@@ -2,6 +2,8 @@
 
 A modern, developer-friendly API testing tool built with React and TypeScript. Similar to Postman, but runs directly in your browser.
 
+Nihal: Only if it works here, is it ready to integrate. NOT on Postman or local machines.
+
 ## Features
 
 - 🚀 Test REST APIs with support for all HTTP methods
